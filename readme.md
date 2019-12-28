@@ -1,6 +1,5 @@
 # Using sentiment signals to improve technical analysis based stock trading
-##
-Background
+## Background
 <i>Technical analysis is a trading discipline employed to evaluate
 investments and identify trading opportunities by analyzing statistical trends
 gathered from trading activity, such as price movement and volume. Unlike
